@@ -1,0 +1,66 @@
+
+
+
+@media only screen and ( max-width:800px) {
+.logo{ 
+    width: 40px !important;
+    margin-left: 5px !important;
+}   
+}
+nav{
+    height: 6rem;
+}
+.nav-item{
+    font-size: .9rem;
+    margin-left: .5rem;
+    margin-right: .5rem;
+    
+}
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+    width: 6rem;
+}
+p{
+    font-size: 1.25rem;
+}
+.bg-img1 {
+   
+    min-height: 80vh;
+    background-image: url(images/137-82376.png);
+    background-position: center;
+    background-size: cover;
+    background-color: #1e3932;
+}
+.bg-img2 {
+   
+    min-height: 60vh;
+    background-image: url(images/137-82377.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #1e3932;
+}
+.bg-img4 {
+   
+    min-height: 60vh;
+    background-image: url(images/bg-4.png);
+    background-position: center;
+    background-size: cover;
+    background-color: #006241;
+}
+.bg-img5 {
+   
+    min-height: 50vh;
+    background-image: url(images/137-82516.jpg);
+    background-position: center;
+    background-size: cover;
+    background-color: #006241;
+}
+li a{
+    text-decoration: none;
+}
+
